@@ -44,11 +44,11 @@ function clickHandler() {
         nextDate.month +
         "-" +
         nextDate.year +
-        " you missed by " +
+        "and you missed by " +
         flag +
         " days.";
     } else {
-      output.innerText = "Yay! Your birthday is palindrome!";
+      output.innerText = "Yes, Your birthday is palindrome!";
     }
   }
 }
