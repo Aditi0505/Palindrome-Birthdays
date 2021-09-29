@@ -44,7 +44,7 @@ function clickHandler() {
         nextDate.month +
         "-" +
         nextDate.year +
-        "and you missed by " +
+        " and you missed by " +
         flag +
         " days.";
     } else {
