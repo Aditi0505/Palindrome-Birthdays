@@ -52,7 +52,12 @@ button {
 #output {
   font-size: 30px;
   font-weight: bolder;
+  color: #464062;
 }
 .footer {
   margin-top: 15rem;
+}
+h1,
+p {
+  color: #464062;
 }
