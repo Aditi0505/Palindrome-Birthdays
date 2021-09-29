@@ -12,5 +12,4 @@ User provides their birthday. The app tells if their birthday is palindrome or i
  * CSS
  * Vanilla JS
 
-
 [Live App](https://aditi-palindrome-birthday.netlify.app/ "Live App")
